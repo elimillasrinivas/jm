@@ -1,0 +1,22 @@
+{
+    "items": [
+        {
+            "value": "05",
+            "label": "Years",
+            "plus": true,
+            "title": "Professional Experience"
+        },
+        {
+            "value": "15",
+            "label": "People",
+            "plus": false,
+            "title": "Employees in team"
+        },
+        {
+            "value": "40",
+            "label": "clients",
+            "plus": true,
+            "title": "All over India"
+        }
+    ]
+}

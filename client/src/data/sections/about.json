@@ -1,0 +1,20 @@
+{
+    "image1": {
+        "url": "/img/about-one.jpeg",
+        "alt": "Image One"
+    },
+    "image2": {
+        "url": "/img/about-two.jpeg",
+        "alt": "Image One"
+    },
+    "title": "One Stop Solutions Provider.",
+    "subtitle": "Welcome to Jobminar",
+    "text": "We offer top-notch staffing solutions, web development, construction, corporate events, digital marketing, and political digital marketing services. Our expert team handles tasks of all complexities, ensuring quality finishes and repairs in every project. Building and growing with excellence is our passion! Explore our comprehensive range of services today.",
+    "signature": {
+        "light": "/img/signature.png",
+        "dark": "/img/signature-1.png",
+        "alt": "Signature"
+    },
+    "name": "Shanmukh Thallam",
+    "role": "Director of Jobminar"
+}

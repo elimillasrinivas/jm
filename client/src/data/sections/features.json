@@ -1,0 +1,31 @@
+{
+    "subtitle": "Core Features",
+    "title": "What Makes Us Differnt",
+    "yt_video_id": "uemObN8_dcw",
+    "image": {
+        "url": "/img/core-feature.jpeg",
+        "alt": "image"
+    },
+    "items": [
+        {
+            "num": "01.",
+            "title": "Early Involvement",
+            "text": "Our distinguishing factor lies in our unparalleled expertise and early involvement approach. At Jobminar Consultants Pvt Ltd, we believe that engaging with us from the start empowers us to comprehensively define project scopes and optimize systems. This proactive stance mitigates uncertainties, leading to remarkable project success."
+        },
+        {
+            "num": "02.",
+            "title": "Project Excellence",
+            "text": "Early engagement is the cornerstone of our success at Jobminar Consultants Pvt Ltd. By involving us from the outset, we delve deep into understanding project requirements, ensuring comprehensive scope definition and systems optimization. This strategic approach reduces project uncertainties and sets the stage for optimal outcomes."
+        },
+        {
+            "num": "03.",
+            "title": "Early Collaboration",
+            "text": "What sets us apart is our willingness to embrace challenges through early collaboration. At Jobminar Consultants Pvt Ltd, we analyze potential hurdles, define precise project scopes, and optimize systems when brought on board early. This hands-on approach reduces risks, leading to efficient project execution."
+        },
+        {
+            "num": "04.",
+            "title": "Building Success",
+            "text": "Building success starts with early partnership at Jobminar Consultants Pvt Ltd. Our team thrives on delivering excellence through comprehensive scope definition and systems optimization. By partnering with us at the outset, you ensure a strong foundation for your project's success."
+        }
+    ]
+}

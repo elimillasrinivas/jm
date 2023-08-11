@@ -1,0 +1,69 @@
+{
+    "items": [
+        {
+            "image": "img/slide1.jpeg",
+            "title": "Welcome to Jobminar Consultants            ",
+            "text": "Your all-in-one destination for staffing solutions, web development, digital marketing, construction, political digital marketing, and corporate events. Your success, our expertise.",
+            "button": {
+                "label": "Our Services",
+                "link": "/services"
+            }
+        },
+        {
+            "image": "img/pd-1.jpg",
+            "title": "Political Digital Marketing             ",
+            "text": "Our political marketing experts drive your campaign forward with targeted strategies, real-time engagement, and data-driven decision-making.            ",
+            "button": {
+                "label": "See Service Details",
+                "link": "/services/service-6"
+            }
+        },
+        {
+            "image": "img/project5.jpg",
+            "title": "Construction Services",
+            "text": "Jobminar's construction expertise blends innovation and sustainability to build spaces that stand the test of time, shaping communities for the future.",
+            "button": {
+                "label": "See Service Details",
+                "link": "/services/service-5"
+            }
+        },
+        {
+            "image": "img/webdev_6.jpg",
+            "title": "Web Development Solutions",
+            "text": "Jobminar Consultants crafts websites that leave a lasting impression. Our custom designs, responsive layouts, and SEO optimization create a compelling online presence for your brand.",
+            "button": {
+                "label": "See Service Details",
+                "link": "/services/service-3"
+            }
+        },
+        {
+            "image": "img/slide.jpg",
+            "title": "Strategic Staffing Solutions",
+            "text": "At Jobminar Consultants, we offer strategic staffing solutions that go beyond filling positions. Our extensive network connects you with diverse, qualified candidates, ensuring a cultural and skill fit for your organization's success.            ",
+            "button": {
+                "label": "See Service Details",
+                "link": "/services/service-1"
+            }
+        },
+        
+        {
+            "image": "img/digital_5.jpg",
+            "title": "Digital Marketing Solutions           ",
+            "text": "Jobminar's digital marketing strategies empower your business to reach new heights. From SEO to engaging content, we ensure your brand thrives online.            ",
+            "button": {
+                "label": "See Service Details",
+                "link": "/services/service-2"
+            }
+        },
+        
+        {
+            "image": "img/event_4.jpg",
+            "title": "Corporate Events",
+            "text": "From product launches to gala nights, Jobminar Consultants curates corporate events that strengthen your brand's identity and connections.            ",
+            "button": {
+                "label": "See Service Details",
+                "link": "/services/service-4"
+            }
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "items": [
+        {
+            "icon": {
+                "light": "/images/staffing-light.svg",
+                "dark": "/images/staffing-dark.svg",
+                "alt": "icon"
+            },
+            "title": "Staffing Solutions",
+            "text": "Explore premier staffing solutions. Find perfect talent for your needs.",
+            "link": "/services/service-1"
+        },
+        {
+            "icon": {
+                "light": "/images/digital-marketing.svg",
+                "dark": "/images/digital-marketing-dark.svg",
+                "alt": "icon"
+            },
+            "title": "Digital Marketing",
+            "text": "Effective digital strategies. Drive growth with us. Get started today!",
+            "link": "/services/service-2"
+        },
+        {
+            "icon": {
+                "light": "/images/web-development.svg",
+                "dark": "/images/web-development-dark.svg",
+                "alt": "icon"
+            },
+            "title": "Web Development",
+            "text": "Expert web solutions. Enhance your online presence. Connect with us!",
+            "link": "/services/service-3"
+        },
+        {
+            "icon": {
+                "light": "/images/events.svg",
+                "dark": "/images/events-dark.svg",
+                "alt": "icon"
+            },
+            "title": "Corporate Events",
+            "text": "Unforgettable events. Elevate your brand. Book now for success!",
+            "link": "/services/service-4"
+        },
+        {
+            "icon": {
+                "light": "/images/construction.svg",
+                "dark": "/images/construction-dark.svg",
+                "alt": "icon"
+            },
+            "title": "Construction",
+            "text": "Premier construction services. Build with confidence. Contact us",
+            "link": "/services/service-5"
+        },
+        {
+            "icon": {
+                "light": "/images/political.svg",
+                "dark": "/images/political-dark.svg",
+                "alt": "icon"
+            },
+            "title": "Political Digital Marketing",
+            "text": "Winning political campaigns. Connect with voters now. Join us",
+            "link": "/services/service-6"
+        }
+    ]
+}
