@@ -114,7 +114,7 @@ const ProjectDetail = ( props ) => {
             <div className="container-fluid g-0">
               <Swiper
                 {...sliderProps.projDetailsSlider}
-                className="p-d-slider"
+                className="p-d-slider" style={{width:"100%"}}
               >
                 {postData.slider.items.map((item, key) => (
                 <SwiperSlide key={`pds-slide-${key}`} className="swiper-slide">

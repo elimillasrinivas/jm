@@ -12179,4 +12179,8 @@ fieldset:disabled .btn {
     }
 }
 
+
+.swiper-slide .swiper-slide-active{
+    width: 100%;
+}
 /*# sourceMappingURL=bootstrap.min.css.map */
