@@ -2,13 +2,13 @@
     "settings": {
         "siteName": "Jobminar Consultants",
         "preloader": {
-            "image": "/img/jm.png",
+            "image": "/img/1.png",
             "alt": "logo"
         },
-        "formspreeURL": "https://formspree.io/f/your_api_key",
+        "formspreeURL": "https://formspree.io/f/mqkvpvlv",
         "mailchimp": {
-            "url": "",
-            "key": ""
+            "url": "https://formspree.io/f/xrgwpwly",
+            "key": "https://formspree.io/f/xrgwpwly"
         }
     },
     "header": {
@@ -76,8 +76,12 @@
     },
     "social": [
         {
-            "link": "https://chat.whatsapp.com/DE0tOUJ5Zc7C7LxaQw5N51",
+            "link": "https://wa.me/message/2IPGWWBXI4ISO1",
             "title": "Whatsapp"
+        },
+        {
+            "link": "https://www.linkedin.com/company/82628628/admin/feed/posts/",
+            "title": "Linkedin"
         },
         {
             "link": "https://www.instagram.com/jobminar/",
@@ -90,10 +94,6 @@
         {
             "link": "https://twitter.com/JobminarL",
             "title": "Twitter"
-        },
-        {
-            "link": "https://www.linkedin.com/company/82628628/admin/feed/posts/",
-            "title": "Linkedin"
         }
     ]
 }

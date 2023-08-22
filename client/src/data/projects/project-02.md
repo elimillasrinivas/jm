@@ -1,6 +1,6 @@
 ---
 #preview
-title: Staffing Solution for ilensys company
+title: Staffing Solution for ilensys Technologies
 image: /img/staffing-6.jpg
 short: "Smart staffing powers growth through strategic alignment and innovation."
 location: "United Kingdom"

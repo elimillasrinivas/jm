@@ -50,7 +50,7 @@ const Portfolio = (props) => {
         ))}
 
         <div className="container">
-          <div className="row">
+          {/* <div className="row">
             <div className="builty-pagination">
               <nav aria-label="Page navigation example">
                 <ul className="pagination">
@@ -92,7 +92,7 @@ const Portfolio = (props) => {
                 </ul>
               </nav>
             </div>
-          </div>
+          </div> */}
         </div>
       </section>
       {/* Our Project One End */}

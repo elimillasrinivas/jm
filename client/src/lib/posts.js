@@ -77,7 +77,7 @@ export function getRelatedPosts(current_id) {
   fileNames.map(fileName => {
     // Remove ".md" from file name to get id
     const id = fileName.replace(/\.md$/, '')
-    console.log(id);
+    // console.log(id);
     // Read markdown file as string
     const fullPath = path.join(postsDirectory, fileName)
     const fileContents = fs.readFileSync(fullPath, 'utf8')

@@ -1,8 +1,8 @@
 ---
 #preview details
-image: "/img/serv-i-1.svg"
+image: "/images/staffing-light.svg"
 title: "Staffing Solutions"
-short: "Designing and Building The Most Beautiful Custom Homes."
+short: "Our Staffing Solutions are tailored to meet your workforce needs"
 
 #full details
 description0:
@@ -56,22 +56,26 @@ accordion:
   title: Service Related Questions
   items:
     - heading: Looking for Permanent Staffing Solutions?
-      content: Identifying and securing full-time employees who are the right fit for your company.
+      content: Are you in search of a dependable and efficient permanent staffing solution? Look no further than JobMinar! Our comprehensive permanent staffing services are designed to connect you with top-notch talent that perfectly aligns with your organization's requirements. Our expert recruiters meticulously screen and evaluate candidates to ensure they possess the right skills, experience, and cultural fit for your company. With a commitment to understanding your unique business needs, we strive to deliver candidates who are not only qualified but also passionate about contributing to your company's success in the long term. Partner with us for unparalleled permanent staffing solutions that help you build a strong and cohesive workforce.
+
 
 
     - heading: Need Reliable Temporary Staffing Services?
-      content: Providing skilled professionals for short-term projects or seasonal demands.
+      content: When you require a flexible workforce to meet short-term demands, JobMinar's reliable temporary staffing services have got you covered. We understand that business needs can be dynamic, and our goal is to provide you with skilled temporary professionals who seamlessly integrate into your operations. Our vast pool of pre-screened and qualified candidates ensures that you can quickly ramp up your team without compromising on quality. Whether you're looking for administrative support, technical expertise, or any other role, our temporary staffing solutions offer the agility and efficiency you need to keep your business running smoothly.
+
 
 
     - heading: Considering Contract-to-Hire Options?
-      content:  Evaluating candidates on temporary assignments before offering permanent positions.
+      content:  Navigating the path from contract-based employment to a full-time hire has never been easier than with JobMinar's contract-to-hire options. This approach allows you to assess a candidate's skills, performance, and cultural fit before making a permanent commitment. Our experienced team ensures a seamless transition from contract to full-time employment, streamlining the hiring process and reducing risks. With a focus on building strong relationships between employers and candidates, our contract-to-hire services enable you to make informed decisions that lead to long-term success.
+
 
 
     - heading: Seeking Elite Executive Search Services?
-      content: Identifying and recruiting top-level executives for leadership roles.
+      content: At JobMinar, we specialize in elite executive search services that cater to your organization's most critical leadership needs. Our executive recruitment team is dedicated to identifying, engaging, and presenting high-caliber executives who possess the strategic vision, industry knowledge, and leadership qualities your company requires. We understand the unique challenges of filling top-level positions, and our tailored approach ensures that only the most qualified candidates are presented for your consideration. Partner with us to find the exceptional leaders who will drive your organization's growth and success.
+
 
     - heading: Require Expertise in Project-Based Staffing?
-      content: Assembling specialized teams for short-term or specialized projects.
+      content: When your projects demand specialized skills for a finite period, JobMinar's project-based staffing expertise comes to the rescue. Our in-depth understanding of various industries allows us to connect you with professionals who possess the specific technical skills and domain knowledge required for successful project execution. We work closely with you to comprehend your project's intricacies and objectives, enabling us to handpick individuals or teams that can hit the ground running. With a focus on delivering results within the project timeline, our project-based staffing solutions ensure that you achieve your goals efficiently and effectively.
 ---
 
 ### Highest Expectations

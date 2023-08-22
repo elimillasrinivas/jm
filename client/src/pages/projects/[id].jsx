@@ -84,7 +84,7 @@ const ProjectDetail = ( props ) => {
                 </>
                 }
 
-                {typeof postData.details != "undefined" &&
+                {/* {typeof postData.details != "undefined" &&
                 <div className="row space">
                   {postData.details.items.map((item, key) => (
                   <div key={`details-item-${key}`} className="col-lg-6 col-md-6 col-sm-12"  >
@@ -100,7 +100,7 @@ const ProjectDetail = ( props ) => {
                   </div>
                   ))}
                 </div>
-                }
+                } */}
               </div>
             </div>
           </div>

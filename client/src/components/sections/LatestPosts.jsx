@@ -33,16 +33,16 @@ const LatestPostsSection = ( { posts } ) => {
                                     <Link href={`/blog/${item.id}`}>{item.title}</Link>
                                 </h2>
                                 <div className="blog-author d-flex-all justify-content-start">
-                                    <div className="author-img">
+                                    {/* <div className="author-img">
                                         <figure>
                                             <img src={item.author.avatar} alt={item.author.name} />
                                         </figure>
                                     </div>
                                     <div className="details">
                                         <h3> <span>by</span> {item.author.name}</h3>
-                                    </div>
-                                </div>
-                            </div>
+                                    </div> */}
+                                </div> 
+                            </div>  
                         </div>
                     </div>
                     ))}

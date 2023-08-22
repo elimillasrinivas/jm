@@ -34,18 +34,18 @@ const PostsDetail = (props) => {
                   <h2>{postData.title}</h2>
                   <div className="blog-author d-flex-all justify-content-start">
                     <div className="author-img">
-                      <figure>
+                      {/* <figure>
                         <img
                           src={postData.author.avatar}
                           alt={postData.author.name}
                         />
-                      </figure>
+                      </figure> */}
                     </div>
                     <div className="details">
-                      <h3>
+                      {/* <h3>
                         {" "}
                         <span>by</span> {postData.author.name}
-                      </h3>
+                      </h3> */}
                     </div>
                   </div>
                 </div>
