@@ -30,7 +30,7 @@ const handlePasswordChange=(e)=>{
       password:password
     } 
     console.log(data);
-    await axios.post("http://localhost:8083/user/register",data)
+    await axios.post("https://server-jobminar.onrender.com/user/register",data)
     .then((res)=>{
       if(res.data.message==='User registered successfully'){
         Swal.fire({
